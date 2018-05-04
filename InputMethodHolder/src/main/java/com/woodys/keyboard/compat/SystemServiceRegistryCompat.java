@@ -1,8 +1,8 @@
-package com.woodys.inputmethodholder.compat;
+package com.woodys.keyboard.compat;
 
 import java.util.Map;
 
-import com.woodys.inputmethodholder.util.ReflectUtil;
+import com.woodys.keyboard.util.ReflectUtil;
 
 /**
  * Created by woodys on 2018/3/8.

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/InputMethodHolder/InputMethodHolder.iml" filepath="$PROJECT_DIR$/InputMethodHolder/InputMethodHolder.iml" />
       <module fileurl="file://$PROJECT_DIR$/KeyBoardDisplayHolder.iml" filepath="$PROJECT_DIR$/KeyBoardDisplayHolder.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SoftInputMethodHolder/SoftInputMethodHolder.iml" filepath="$PROJECT_DIR$/SoftInputMethodHolder/SoftInputMethodHolder.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

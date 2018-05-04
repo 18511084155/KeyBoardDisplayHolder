@@ -1,11 +1,11 @@
-package com.woodys.inputmethodholder;
+package com.woodys.keyboard;
 
 import android.content.Context;
 import android.util.Log;
 
 import java.lang.reflect.Method;
 
-import com.woodys.inputmethodholder.hook.InputMethodManagerHook;
+import com.woodys.keyboard.hook.InputMethodManagerHook;
 
 /**
  * Created by woodys on 2018/3/6.

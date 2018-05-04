@@ -12,9 +12,9 @@ import android.widget.Toast;
 
 import java.lang.reflect.Method;
 
-import com.woodys.inputmethodholder.OnInputMethodListener;
-import com.woodys.inputmethodholder.InputMethodHolder;
-import com.woodys.inputmethodholder.OnInterceptMethodListener;
+import com.woodys.keyboard.OnInputMethodListener;
+import com.woodys.keyboard.InputMethodHolder;
+import com.woodys.keyboard.OnInterceptMethodListener;
 
 public class MainActivity extends AppCompatActivity {
 

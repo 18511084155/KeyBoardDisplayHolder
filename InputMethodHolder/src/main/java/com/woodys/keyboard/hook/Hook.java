@@ -1,4 +1,4 @@
-package com.woodys.inputmethodholder.hook;
+package com.woodys.keyboard.hook;
 
 import android.content.Context;
 

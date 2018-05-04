@@ -1,4 +1,4 @@
-package com.woodys.inputmethodholder;
+package com.woodys.keyboard;
 
 import android.util.Pair;
 

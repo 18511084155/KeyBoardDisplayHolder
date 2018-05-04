@@ -1,1 +1,1 @@
-include ':app', ':SoftInputMethodHolder'
+include ':app', ':InputMethodHolder'

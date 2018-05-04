@@ -1,4 +1,4 @@
-package com.woodys.inputmethodholder.hook;
+package com.woodys.keyboard.hook;
 
 import android.content.Context;
 import android.os.IBinder;
@@ -8,8 +8,8 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 import java.util.Map;
 
-import com.woodys.inputmethodholder.compat.ServiceManagerCompat;
-import com.woodys.inputmethodholder.util.ReflectUtil;
+import com.woodys.keyboard.compat.ServiceManagerCompat;
+import com.woodys.keyboard.util.ReflectUtil;
 
 /**
  * Created by woodys on 2018/3/7.

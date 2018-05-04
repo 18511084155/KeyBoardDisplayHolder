@@ -3,7 +3,7 @@ package com.woodys.sample;
 import android.app.Application;
 import android.content.Context;
 
-import com.woodys.inputmethodholder.InputMethodHolder;
+import com.woodys.keyboard.InputMethodHolder;
 
 /**
  * Created by Administrator on 2017/3/7.

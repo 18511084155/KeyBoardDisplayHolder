@@ -1,4 +1,4 @@
-package com.woodys.inputmethodholder.hook;
+package com.woodys.keyboard.hook;
 
 import android.content.Context;
 import android.os.IBinder;
@@ -9,10 +9,10 @@ import android.view.inputmethod.InputMethodManager;
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
-import com.woodys.inputmethodholder.OnInterceptMethodListener;
-import com.woodys.inputmethodholder.compat.IInputMethodManagerCompat;
-import com.woodys.inputmethodholder.compat.SystemServiceRegistryCompat;
-import com.woodys.inputmethodholder.util.ReflectUtil;
+import com.woodys.keyboard.OnInterceptMethodListener;
+import com.woodys.keyboard.compat.IInputMethodManagerCompat;
+import com.woodys.keyboard.compat.SystemServiceRegistryCompat;
+import com.woodys.keyboard.util.ReflectUtil;
 
 /**
  * Created by woodys on 2018/3/7.
